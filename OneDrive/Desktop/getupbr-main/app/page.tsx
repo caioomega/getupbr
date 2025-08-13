@@ -1208,11 +1208,6 @@ ${formData.message}`
                       <p className="text-muted-foreground text-xs sm:text-sm">getupmarketingbr@gmail.com</p>
                     </div>
                   </div>
-                  <div className="flex items-center gap-4 p-4 rounded-lg border border-[#7c4dff]/10 hover:border-[#7c4dff]/30 transition-colors bg-white shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
-                    <div className="flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-[#7c4dff]/10 text-[#7c4dff] group-hover:bg-[#7c4dff] group-hover:text-white transition-all duration-300">
-                      <MapPin className="h-4 w-4 sm:h-5 sm:w-5" />
-                    </div>
-                  </div>
                 </div>
 
                 <div className="flex gap-4">
