@@ -1212,10 +1212,6 @@ ${formData.message}`
                     <div className="flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-[#7c4dff]/10 text-[#7c4dff] group-hover:bg-[#7c4dff] group-hover:text-white transition-all duration-300">
                       <MapPin className="h-4 w-4 sm:h-5 sm:w-5" />
                     </div>
-                    <div>
-                      <p className="font-medium text-sm sm:text-base">Endereço</p>
-                      <p className="text-muted-foreground text-xs sm:text-sm">Atendimento 100% online</p>
-                    </div>
                   </div>
                 </div>
 
