@@ -244,3 +244,19 @@ select {
     transform: translateY(-0.25rem);
   }
 }
+
+/* Botão com espaçamento melhorado */
+.btn-spacing {
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  .btn-spacing {
+    margin-top: 1.5rem;
+    padding: 0.625rem 1.25rem;
+  }
+}

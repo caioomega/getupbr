@@ -407,7 +407,7 @@ export default function GestaoDeTrafegoPage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link href="/orcamento">
-                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 shadow-lg hover:shadow-white/30 transition-all duration-300">
+                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 shadow-lg hover:shadow-white/30 transition-all duration-300 mt-6 sm:mt-8">
                     Solicitar orçamento{" "}
                     <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
                   </Button>
@@ -419,7 +419,7 @@ export default function GestaoDeTrafegoPage() {
                       "_blank",
                     )
                   }
-                  className="bg-[#b4ff4d] text-[#7c4dff] hover:bg-[#a3e644] font-medium shadow-lg hover:shadow-[#b4ff4d]/30 transition-all duration-300"
+                  className="bg-[#b4ff4d] text-[#7c4dff] hover:bg-[#a3e644] font-medium shadow-lg hover:shadow-[#b4ff4d]/30 transition-all duration-300 mt-6 sm:mt-8"
                 >
                   Consultoria gratuita{" "}
                   <ArrowUpRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

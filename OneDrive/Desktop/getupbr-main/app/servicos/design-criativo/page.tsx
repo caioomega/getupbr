@@ -367,7 +367,7 @@ export default function Page() {
             <div className="max-w-md mx-auto">
               <Button
                 onClick={() => window.open('https://api.whatsapp.com/send?phone=5519994871568&text=Olá! Gostaria de saber mais sobre design criativo.', '_blank')}
-                className="w-full bg-[#7c4dff] hover:bg-[#6a3afc] text-white text-sm px-4 py-2 flex items-center justify-center gap-2"
+                className="w-full bg-[#7c4dff] hover:bg-[#6a3afc] text-white text-sm px-4 py-2 flex items-center justify-center gap-2 mt-6 sm:mt-8"
               >
                 <Phone className="h-5 w-5" />
                 Fale Conosco pelo WhatsApp

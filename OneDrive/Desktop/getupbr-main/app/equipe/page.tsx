@@ -543,11 +543,11 @@ export default function EquipePage() {
 								Nossa equipe está pronta para ajudar seu negócio a alcançar novos patamares no mundo digital.
 							</p>
 							<div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
-								<Button className="bg-white text-[#7c4dff] hover:bg-white/90 group">
+								<Button className="bg-white text-[#7c4dff] hover:bg-white/90 group mt-6 sm:mt-8">
 									Fale com nossa equipe{" "}
 									<ArrowUpRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
 								</Button>
-								<Button variant="outline" className="border-white text-white hover:bg-white/20 transition-colors">
+								<Button variant="outline" className="border-white text-white hover:bg-white/20 transition-colors mt-6 sm:mt-8">
 									Ver nossos projetos
 								</Button>
 							</div>

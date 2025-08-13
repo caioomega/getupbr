@@ -53,7 +53,6 @@ export const metadata: Metadata = {
       href: "/images/getup-logo-color.png",
     },
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({

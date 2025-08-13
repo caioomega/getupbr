@@ -641,7 +641,7 @@ ${formData.message}`
                   </div>
                 </div>
                 <Link href="/equipe">
-                  <Button className="bg-[#7c4dff] hover:bg-[#6a3afc] text-white relative overflow-hidden shadow-lg shadow-[#7c4dff]/20 hover:shadow-[#7c4dff]/40 transition-all duration-300">
+                  <Button className="bg-[#7c4dff] hover:bg-[#6a3afc] text-white relative overflow-hidden shadow-lg shadow-[#7c4dff]/20 hover:shadow-[#7c4dff]/40 transition-all duration-300 mt-6 sm:mt-8">
                     <span className="relative z-10 flex items-center">
                       Conheça nossa equipe{" "}
                       <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
@@ -1129,7 +1129,7 @@ ${formData.message}`
                   Entre em contato conosco hoje mesmo e descubra como podemos ajudar seu negócio a crescer.
                 </p>
                 <Link href="/orcamento">
-                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 shadow-lg hover:shadow-white/30 transition-all duration-300">
+                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 shadow-lg hover:shadow-white/30 transition-all duration-300 mt-6 sm:mt-8">
                     Solicitar orçamento{" "}
                     <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
                   </Button>

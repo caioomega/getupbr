@@ -402,7 +402,7 @@ ${formData.description}`
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <Button className="bg-white text-[#7c4dff] hover:bg-white/90 w-full">
+                        <Button className="bg-white text-[#7c4dff] hover:bg-white/90 w-full mt-6 sm:mt-8">
                           Falar no WhatsApp{" "}
                           <ArrowUpRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
                         </Button>

@@ -389,7 +389,7 @@ export default function KivoltPage() {
                   mercado.
                 </p>
                 <Link href="/orcamento">
-                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 group w-full sm:w-auto">
+                  <Button className="bg-white text-[#7c4dff] hover:bg-white/90 group w-full sm:w-auto mt-6 sm:mt-8">
                     Solicitar orçamento{" "}
                     <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
                   </Button>
@@ -411,7 +411,7 @@ export default function KivoltPage() {
                             "_blank",
                           )
                         }
-                        className="bg-[#b4ff4d] text-[#7c4dff] hover:bg-[#a3e644] group font-medium text-sm w-full"
+                        className="bg-[#b4ff4d] text-[#7c4dff] hover:bg-[#a3e644] group font-medium text-sm w-full mt-6 sm:mt-8"
                       >
                         Agendar agora{" "}
                         <ArrowUpRight className="ml-1 h-3 w-3 sm:h-4 sm:w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
@@ -507,7 +507,7 @@ export default function KivoltPage() {
 
             <div className="mt-8 sm:mt-12 text-center">
               <Link href="/#portfolio">
-                <Button className="bg-[#7c4dff] hover:bg-[#6a3afc] text-white w-full sm:w-auto">
+                <Button className="bg-[#7c4dff] hover:bg-[#6a3afc] text-white w-full sm:w-auto mt-6 sm:mt-8">
                   Ver todos os projetos{" "}
                   <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Button>
